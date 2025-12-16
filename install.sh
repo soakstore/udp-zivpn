@@ -22,7 +22,7 @@ NC='\033[0m' # No Color
 # ----------------------------------------------------------------------------
 # KONFIGURASI GLOBAL
 # ----------------------------------------------------------------------------
-LICENSE_URL="https://raw.githubusercontent.com/arivpnstores/izin/main/ip2"
+LICENSE_URL="https://raw.githubusercontent.com/soakstore/izin/main/ip"
 LICENSE_INFO_FILE="/etc/zivpn/.license_info"
 CONFIG_DIR="/etc/zivpn"
 TELEGRAM_CONF="${CONFIG_DIR}/telegram.conf"
